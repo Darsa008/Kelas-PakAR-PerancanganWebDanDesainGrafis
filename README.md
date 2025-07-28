@@ -1,1 +1,16 @@
-# Kelas-PakAR-PerancanganWebDanDesainGrafis
+# BeliPulsaYuk
+
+Landing page untuk layanan isi ulang pulsa dan paket data.
+
+## Fitur:
+- Tampilan responsive
+- HTML dan CSS terpisah
+- Gambar produk
+- Tombol kontak WhatsApp
+
+## Teknologi:
+- HTML5, CSS3
+- Hosting: bisdig23.com
+
+## URL:
+🔗 https://belipulsayuk.bisdig23.com
